@@ -1,0 +1,23 @@
+{
+  "greeting": "亲爱的",
+  "name": "点点",
+  "greetingText": "我最爱最爱的小猫咪!",
+  "wishText": "这是密钥，解密程序我会发给你的 ;)",
+  "imagePath": "img/We.png",
+  "text1": "今天是大金毛的表白日!!! :D",
+  "textInChatBox": "我真的好喜欢好喜欢你，做我的女朋友好吗",
+  "sendButtonLabel": "Yes",
+  "text2": "你以为就这样了吗🤪",
+  "text3": "那样的话未免也太逊了",
+  "text4": "世界上最最好的小猫咪需要更特殊的表白",
+  "text4Adjective": "special",
+  "text5Entry": "我我用RC4（对称）算法对我的表白内容进行了加密，并且具有唯一的密钥解密（MD5解密）",
+  "text5Content": "密钥是唯一的，只属于你",
+  "smiley": ":)",
+  "bigTextPart1": "先放一些",
+  "bigTextPart2": "我们的照片",
+  "wishHeading": "6415D745FAA68C73",
+  "outroText": "我爱你❤️——一只偏执的金毛",
+  "replayText": "点这里可以再看一遍",
+  "outroSmiley": ":)"
+}
